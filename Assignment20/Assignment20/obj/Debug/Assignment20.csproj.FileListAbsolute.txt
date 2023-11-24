@@ -1,0 +1,7 @@
+D:\mphasis\Assignments\Day-15\Assignment20\Assignment20\bin\Debug\Assignment20.exe.config
+D:\mphasis\Assignments\Day-15\Assignment20\Assignment20\bin\Debug\Assignment20.exe
+D:\mphasis\Assignments\Day-15\Assignment20\Assignment20\bin\Debug\Assignment20.pdb
+D:\mphasis\Assignments\Day-15\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.AssemblyReference.cache
+D:\mphasis\Assignments\Day-15\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CoreCompileInputs.cache
+D:\mphasis\Assignments\Day-15\Assignment20\Assignment20\obj\Debug\Assignment20.exe
+D:\mphasis\Assignments\Day-15\Assignment20\Assignment20\obj\Debug\Assignment20.pdb
